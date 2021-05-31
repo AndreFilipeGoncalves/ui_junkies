@@ -2,7 +2,11 @@
     "gallery": {
         "buttons": {
             "heading": "Buttons",
-            "subheading": "whatever it is we want to place here"
+            "subheading": "whatever it is we want to place here",
+            "textButton": {
+                "title": "Text Button",
+                "description": "A simple text button"
+            }
         },
         "dropdowns": {
             "heading": "Dropdowns",

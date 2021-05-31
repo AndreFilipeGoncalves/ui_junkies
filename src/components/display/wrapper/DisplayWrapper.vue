@@ -1,11 +1,11 @@
 <template>
     <section class="display-wrapper">
-        <head class="display-header">
+        <div class="display-header">
             <h1 class="display-title">{{title}}</h1>
             <div class="display-subtitle" role="doc-subtitle">
                 {{subtitle}}
             </div>
-        </head>
+        </div>
         <slot></slot>
     </section>
 </template>
@@ -27,6 +27,7 @@ const props = defineProps({
     padding:24px;
     .display-header {
         display:block;
+        margin-bottom:60px;
         .display-title {
             margin-bottom:10px;
         }

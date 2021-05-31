@@ -9,7 +9,7 @@
 </template>
 
 <script setup>
-import DisplayWrapper from '@/components/display'
+import DisplayWrapper from '@/components/display/wrapper/DisplayWrapper'
 import { useI18n } from 'vue-i18n'
 const { t } = useI18n()
 </script>

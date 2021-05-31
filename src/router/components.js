@@ -1,5 +1,5 @@
-import Buttons from '@/components/gallery/buttons'
-import Dropdowns from '@/components/gallery/dropdowns'
+import Buttons from '@/components/gallery/buttons/ButtonsCore'
+import Dropdowns from '@/components/gallery/dropdowns/DropdownsCore'
 
 export default [
     {
