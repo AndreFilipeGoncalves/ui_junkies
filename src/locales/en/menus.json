@@ -1,0 +1,12 @@
+{
+    "main": {
+        "home": "Home",
+        "about": "About",
+        "components": "Components"
+    },
+    "side": {
+        "buttons": "Buttons",
+        "dropdowns": "Dropdowns"
+    }
+
+}
